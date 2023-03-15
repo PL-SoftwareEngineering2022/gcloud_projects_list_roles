@@ -1,2 +1,2 @@
-# gcloud_projects_list_roles
-##### this bash script will loop through your projects and users, then filter members by group
+### gcloud projects list roles by group
+- This bash script will loop through your projects and roles, then filter members by group for each project and role.
