@@ -9,6 +9,6 @@ find the roles assigned to each group/service account:
     - Outputs a CSV-formatted list of project ID, service account email, and the role assigned to the service account for each project.
     
 - The `--flatten` and `--format` options are used to extract the relevant information from the policy.
-- The scripts can be run directly on the cloud shell or on an editor that has been authenticated with the google cloud 
+- The scripts can be run directly on the cloud shell or on an editor that has been authenticated with the google cloud account that
 you are trying to run either script against.
 
