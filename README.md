@@ -5,7 +5,7 @@ find the roles assigned to each group/service account:
   - `roles_by_group.sh`
     -  Outputs a CSV-formatted list of project ID, group email, and the role assigned to the group for each project.
     
- - `roles_by_serviceAccount.sh`
+  - `roles_by_serviceAccount.sh`
     - Outputs a CSV-formatted list of project ID, service account email, and the role assigned to the service account for each project.
     
 - The `--flatten` and `--format` options are used to extract the relevant information from the policy.
